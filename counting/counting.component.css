@@ -1,0 +1,15 @@
+button {
+    border-radius: 25px;
+    padding: 15 px 32px;
+    background-color: hsla(120, 100%, 75%, 0.3);
+    
+}
+
+h2 {
+    color: green;
+}
+
+.numCount {
+    font-size: 40px;
+    color: rgb(42, 202, 42);
+}
